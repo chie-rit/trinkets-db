@@ -45,6 +45,6 @@ Below is a visual representation of the schema used in this project.
 
 ## 🧑‍💻 Contributors
 
-- Your Name - [@yourgithub](https://github.com/chie-rit)
+- Richard Maina - [@chie-rit](https://github.com/chie-rit)
 
 ---
